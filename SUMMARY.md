@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Creating a Google account](creating-a-google-account.md)
 * [Signing into YouTube](signing-into-youtube.md)
-* Using Creator Studio
+* [Using Creator Studio](using-creator-studio.md)
 * Uploading videos
 * Accessing videos you've uploaded
 * [Embedding a video in a WordPress site](embedding-a-video-in-wordpress.md)
