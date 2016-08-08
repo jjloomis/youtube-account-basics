@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Creating a Google account](creating-a-google-account.md)
-* Signing into YouTube
+* [Signing into YouTube](signing-into-youtube.md)
 * Using Creator Studio
 * Uploading videos
 * Accessing videos you've uploaded
