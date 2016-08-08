@@ -5,7 +5,7 @@
 * [Signing into YouTube](signing-into-youtube.md)
 * [Using Creator Studio](using-creator-studio.md)
 * [Uploading videos](uploading-videos.md)
-* Accessing videos you've uploaded
+* [Accessing videos you've uploaded](accessing-videos-youve-uploaded.md)
 * [Embedding a video in a WordPress site](embedding-a-video-in-wordpress.md)
-* Copying a video's embed code
+* Finding and copying a video's embed code
 
