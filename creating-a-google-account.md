@@ -2,7 +2,7 @@
 
 A Google Account gives you access to YouTube, Google Analytics, Google+ and Gmail. Use your Google account credentials \(username and password\) to sign into all of these services.
 
-1. Go to [google.com](https://www.google.com/)
+1. Go to [google.com](https://www.google.com/).
 2. Click the **Sign In** button.
 3. Click **Create an account**.
 4. In the Create Google Account window, enter your information. Be sure to use a current \(and real\) email address. Click **Next step**.
